@@ -12,7 +12,7 @@
         android:id="@+id/balance_fragment"
         android:name="com.wr30mggmail.moneymanager.BalanceFragment"
         android:layout_width="359dp"
-        android:layout_height="77dp"
+        android:layout_height="80dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
